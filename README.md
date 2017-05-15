@@ -1,1 +1,1 @@
-# notes-app-node-rest-api-boilerplate
+# RESTful API boilerplate for Node.js with Express
